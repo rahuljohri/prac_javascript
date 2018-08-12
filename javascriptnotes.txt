@@ -1,0 +1,6 @@
+Javascript was created as livescript intially but becuase java was so popular, so it was named that.
+It follows ECMA standard.
+Java script can execute on any browser and on a server also.
+Different browsers have different javascript engine or javascript virtual machine.
+We have different javascript engine like v8 in chrome and opera, others in different browsers.
+A javascript engine basically parses the script and converts the script into machine language and then machine language is fast.
